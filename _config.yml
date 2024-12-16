@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 # Site Settings
 locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "하마의 다이어리리"
+title                    : "하마의 다이어리"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "하마의 다이어리"
 name                     : "Hippo"
 description              : "우리는 유용한 과학 포스트를 올립니다."
 url                      : "https://sup-xort.github.io"
