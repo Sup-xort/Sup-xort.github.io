@@ -19,7 +19,7 @@ locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "하마의 다이어리"
 title_separator          : "-"
-subtitle                 : "하마의 다이어리"
+subtitle                 : "Hippo`s diary"
 name                     : "Hippo"
 description              : "우리는 유용한 과학 포스트를 올립니다."
 url                      : "https://sup-xort.github.io"
